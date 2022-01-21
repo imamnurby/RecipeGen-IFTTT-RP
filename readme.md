@@ -5,12 +5,13 @@
 - [Results](#results)
   * [BLEU score](#bleu-score)
     + [Function-level](#function-level)
+    + [Field-level](#field-level)
   * [Mean Reciprocal Rank](#mean-reciprocal-rank)
     + [Function-level](#function-level-1)
-    + [Field-level](#field-level)
+    + [Field-level](#field-level-1)
   * [Sucess Rate](#sucess-rate)
     + [Function-level](#function-level-2)
-    + [Field-level](#field-level-1)
+    + [Field-level](#field-level-2)
 
 # About
 This is the official repository of "Accurate Generation of Trigger-Action Programs with Domain-Adapted Sequence-to-Sequence Learning".
