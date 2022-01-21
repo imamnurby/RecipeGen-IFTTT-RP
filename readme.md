@@ -1,16 +1,15 @@
 # About
-
 This is the official repository of "Accurate Generation of Trigger-Action Programs with Domain-Adapted Sequence-to-Sequence Learning".
 
 # Dataset
-We make the datasets that we used in our experiments publicly available in [zenodo](https://zenodo.org/record/5885850#.YeolYP5ByUl)
+We make the datasets that we used in our experiments publicly available in [zenodo](https://zenodo.org/record/5885850#.YeolYP5ByUl).
 
 Steps:
 1. Download the dataset
 2. Unzip the file
 3. Put the folder inside the unzipped folder to `/dataset`
 
-You can find the datasets used in our paper in the following folders. All of these datasets are in pickle format. 
+The paths to the datasets used in our paper are listed below. All of these datasets are in pickle format. 
 - `Quirk15` in `ready-test-chen-only/train-chen.pkl`
 - `Mi17` in `ready-test-mi-only/train-mi.pkl`
 - `Merged` in `ready-test-train-val-noisy/train-noisy.pkl`
@@ -19,7 +18,7 @@ You can find the datasets used in our paper in the following folders. All of the
 - `Noisy15` in `ready-test-clean/test_intel_clean.pkl`
 - `Train+Field`, `Val+Field`, and `Test+Field` in `ready-train-val-test-mi-field`
 
-You provide some samples of our preprocessed dataset in `dataset/csv`
+We provide some samples of our preprocessed dataset in `dataset/csv`
 
 # Pre-requisites
 Install requirements: `pip -r requirements.txt`
