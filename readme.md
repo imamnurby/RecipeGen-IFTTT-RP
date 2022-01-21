@@ -2,7 +2,7 @@
 This is the official repository of "Accurate Generation of Trigger-Action Programs with Domain-Adapted Sequence-to-Sequence Learning".
 
 # Dataset
-We make the datasets that we used in our experiments publicly available in [zenodo](https://zenodo.org/record/5885850#.YeolYP5ByUl).
+We make the datasets that we used in our study publicly available in [zenodo](https://zenodo.org/record/5885850#.YeolYP5ByUl).
 
 Steps:
 1. Download the dataset
